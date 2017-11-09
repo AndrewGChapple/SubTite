@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: SubTite\nType: Package\nTitle: Subgroup Specific Optimal Dose Assignment\nVersion: 2.0.1\nAuthor: Andrew Chapple\nMaintainer: Andrew Chapple <andrew.g.chapple@rice.edu>\nDescription: Contains functions for choosing subgroup specific optimal doses in a phase I dose finding clinical trial allowing for subgroup combination and simulating a clinical trial under the subgroup specific time to event continual reassessment method.\nLicense: GPL-2\nEncoding: UTF-8\nLazyData: true\nImports: Rcpp (>= 0.12.9)\nLinkingTo: Rcpp, RcppArmadillo\nRoxygenNote: 6.0.1\n",
+    "created" : 1506981697043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1881579263",
+    "id" : "B0097784",
+    "lastKnownWriteTime" : 1508771196,
+    "last_content_update" : 1508771196054,
+    "path" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

@@ -1,0 +1,179 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 26,
+                "name" : "Sample2(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@Sample2#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 64,
+                "name" : "GetFullyFollowed(arma::vec, arma::vec, arma::vec, arma::vec, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetFullyFollowed#$@N@arma@C@Col>#d#S0_#S0_#S0_#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 102,
+                "name" : "MaxVec(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@MaxVec#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 116,
+                "name" : "ReturnStoppedY(arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ReturnStoppedY#$@N@arma@C@Col>#d#S0_#S0_#S0_#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 165,
+                "name" : "ReturnStoppedI(arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ReturnStoppedI#$@N@arma@C@Col>#d#S0_#S0_#S0_#I#"
+            },
+            {
+                "column" : 11,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 214,
+                "name" : "ReturnStoppedGroups(arma::vec, arma::vec, arma::vec, arma::vec, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@ReturnStoppedGroups#$@N@arma@C@Col>#d#S0_#S0_#S0_#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 270,
+                "name" : "MinVec(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@MinVec#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 285,
+                "name" : "min1(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@min1#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 298,
+                "name" : "max1(double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@max1#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 313,
+                "name" : "Like1(arma::vec, arma::vec, arma::vec, arma::vec, double, double, arma::vec, arma::vec, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Like1#$@N@arma@C@Col>#d#S0_#S0_#S0_#d#d#S0_#S0_#d#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 396,
+                "name" : "LikeMULTI(arma::vec, arma::vec, arma::vec, arma::vec, double, double, arma::vec, arma::vec, double, int, arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@LikeMULTI#$@N@arma@C@Col>#d#S0_#S0_#S0_#d#d#S0_#S0_#d#I#S0_#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 489,
+                "name" : "Like3(arma::vec, arma::vec, arma::vec, arma::vec, double, double, arma::vec, arma::vec, double, int, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Like3#$@N@arma@C@Col>#d#S0_#S0_#S0_#d#d#S0_#S0_#d#I#I#"
+            },
+            {
+                "column" : 8,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 597,
+                "name" : "Like2(arma::vec, arma::vec, arma::vec, double, double, double, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Like2#$@N@arma@C@Col>#d#S0_#S0_#d#d#d#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 698,
+                "name" : "Sample1(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@Sample1#I#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 757,
+                "name" : "GetIn(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetIn#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 810,
+                "name" : "GetOut(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetOut#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 5,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 862,
+                "name" : "GetNewGroup(arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetNewGroup#$@N@arma@C@Col>#d#"
+            },
+            {
+                "column" : 6,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 950,
+                "name" : "SimTrial1(int, int, double, arma::vec, arma::vec, arma::vec, arma::vec, double, arma::vec, int, arma::mat, arma::mat, double, double, arma::vec, arma::vec, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SimTrial1#I#I#d#$@N@arma@C@Col>#d#S0_#S0_#S0_#d#S0_#I#$@N@arma@C@Mat>#d#S1_#d#d#S0_#S0_#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+                "kind" : 6,
+                "line" : 6600,
+                "name" : "GetDose1(arma::vec, arma::vec, arma::vec, arma::vec, arma::mat, double, arma::vec, arma::vec, arma::vec, double, double, arma::vec, arma::vec, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@GetDose1#$@N@arma@C@Col>#d#S0_#S0_#S0_#$@N@arma@C@Mat>#d#d#S0_#S0_#S0_#d#d#S0_#S0_#d#d#"
+            }
+        ],
+        "file" : "D:/Users/Andrew/Desktop/Rice/Dr.Thall/SubTite/src/SUBGROUP.cpp",
+        "file_last_write" : 1509816775
+    }
+]
